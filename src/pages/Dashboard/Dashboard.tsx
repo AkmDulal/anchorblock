@@ -1,18 +1,14 @@
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 
 import { useGetUsersQuery } from '../../services/redux/api';
 import {
   Card,
-  CardHeader,
   Typography,
   Button,
   CardBody,
-  Chip,
   CardFooter,
   Avatar,
   IconButton,
-  Tooltip,
-  Input,
 } from "@material-tailwind/react";
 import { FiChevronsLeft, FiChevronsRight } from "react-icons/fi";
 
@@ -78,7 +74,7 @@ const Dashboard = () => {
   const itemsPerPage = 5;
   const { data: users } = useGetUsersQuery({ page: currentPage, perPage: itemsPerPage });
 
-  const [totalPages, setTotalPages] = useState(users?.total_pages);
+  const [totalPages] = useState(users?.total_pages);
 
   const numbers = Array.from({ length: totalPages }, (_, index) => index + 1);
 

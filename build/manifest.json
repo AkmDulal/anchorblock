@@ -1,0 +1,217 @@
+{
+  "index.css": {
+    "file": "assets/index-cfe80179.css",
+    "src": "index.css"
+  },
+  "index.html": {
+    "assets": [
+      "assets/logo-0d0a1016.svg",
+      "assets/Satoshi-Light-8a24f395.woff2",
+      "assets/Satoshi-Light-dd42e743.woff",
+      "assets/Satoshi-Light-b54cf060.ttf",
+      "assets/Satoshi-LightItalic-9690a557.woff2",
+      "assets/Satoshi-LightItalic-2f9c5264.woff",
+      "assets/Satoshi-LightItalic-c9a8d027.ttf",
+      "assets/Satoshi-Regular-50dca57f.woff2",
+      "assets/Satoshi-Regular-9fbc41c9.woff",
+      "assets/Satoshi-Regular-243b23f6.ttf",
+      "assets/Satoshi-Italic-dbcb8c32.woff2",
+      "assets/Satoshi-Italic-a6df1710.woff",
+      "assets/Satoshi-Italic-14c3d259.ttf",
+      "assets/Satoshi-Medium-af02a722.woff2",
+      "assets/Satoshi-Medium-7aeaf037.woff",
+      "assets/Satoshi-Medium-7130cef6.ttf",
+      "assets/Satoshi-MediumItalic-beb15382.woff2",
+      "assets/Satoshi-MediumItalic-cf98a3ed.woff",
+      "assets/Satoshi-MediumItalic-71f8dce5.ttf",
+      "assets/Satoshi-Bold-353a7fbf.woff2",
+      "assets/Satoshi-Bold-1789917c.woff",
+      "assets/Satoshi-Bold-2c122eab.ttf",
+      "assets/Satoshi-BoldItalic-52bfd9e8.woff2",
+      "assets/Satoshi-BoldItalic-5d73878e.woff",
+      "assets/Satoshi-BoldItalic-8ff85a17.ttf",
+      "assets/Satoshi-Black-bd11b582.woff2",
+      "assets/Satoshi-Black-a849a7b7.woff",
+      "assets/Satoshi-Black-78edaca6.ttf",
+      "assets/Satoshi-BlackItalic-83d61d67.woff2",
+      "assets/Satoshi-BlackItalic-cf5edac8.woff",
+      "assets/Satoshi-BlackItalic-d3d6c8d6.ttf"
+    ],
+    "css": [
+      "assets/index-cfe80179.css"
+    ],
+    "dynamicImports": [
+      "src/pages/UserList.tsx",
+      "src/pages/Profile.tsx",
+      "src/layout/DefaultLayout.tsx"
+    ],
+    "file": "assets/index-bad024dd.js",
+    "isEntry": true,
+    "src": "index.html"
+  },
+  "src/fonts/Satoshi-Black.ttf": {
+    "file": "assets/Satoshi-Black-78edaca6.ttf",
+    "src": "src/fonts/Satoshi-Black.ttf"
+  },
+  "src/fonts/Satoshi-Black.woff": {
+    "file": "assets/Satoshi-Black-a849a7b7.woff",
+    "src": "src/fonts/Satoshi-Black.woff"
+  },
+  "src/fonts/Satoshi-Black.woff2": {
+    "file": "assets/Satoshi-Black-bd11b582.woff2",
+    "src": "src/fonts/Satoshi-Black.woff2"
+  },
+  "src/fonts/Satoshi-BlackItalic.ttf": {
+    "file": "assets/Satoshi-BlackItalic-d3d6c8d6.ttf",
+    "src": "src/fonts/Satoshi-BlackItalic.ttf"
+  },
+  "src/fonts/Satoshi-BlackItalic.woff": {
+    "file": "assets/Satoshi-BlackItalic-cf5edac8.woff",
+    "src": "src/fonts/Satoshi-BlackItalic.woff"
+  },
+  "src/fonts/Satoshi-BlackItalic.woff2": {
+    "file": "assets/Satoshi-BlackItalic-83d61d67.woff2",
+    "src": "src/fonts/Satoshi-BlackItalic.woff2"
+  },
+  "src/fonts/Satoshi-Bold.ttf": {
+    "file": "assets/Satoshi-Bold-2c122eab.ttf",
+    "src": "src/fonts/Satoshi-Bold.ttf"
+  },
+  "src/fonts/Satoshi-Bold.woff": {
+    "file": "assets/Satoshi-Bold-1789917c.woff",
+    "src": "src/fonts/Satoshi-Bold.woff"
+  },
+  "src/fonts/Satoshi-Bold.woff2": {
+    "file": "assets/Satoshi-Bold-353a7fbf.woff2",
+    "src": "src/fonts/Satoshi-Bold.woff2"
+  },
+  "src/fonts/Satoshi-BoldItalic.ttf": {
+    "file": "assets/Satoshi-BoldItalic-8ff85a17.ttf",
+    "src": "src/fonts/Satoshi-BoldItalic.ttf"
+  },
+  "src/fonts/Satoshi-BoldItalic.woff": {
+    "file": "assets/Satoshi-BoldItalic-5d73878e.woff",
+    "src": "src/fonts/Satoshi-BoldItalic.woff"
+  },
+  "src/fonts/Satoshi-BoldItalic.woff2": {
+    "file": "assets/Satoshi-BoldItalic-52bfd9e8.woff2",
+    "src": "src/fonts/Satoshi-BoldItalic.woff2"
+  },
+  "src/fonts/Satoshi-Italic.ttf": {
+    "file": "assets/Satoshi-Italic-14c3d259.ttf",
+    "src": "src/fonts/Satoshi-Italic.ttf"
+  },
+  "src/fonts/Satoshi-Italic.woff": {
+    "file": "assets/Satoshi-Italic-a6df1710.woff",
+    "src": "src/fonts/Satoshi-Italic.woff"
+  },
+  "src/fonts/Satoshi-Italic.woff2": {
+    "file": "assets/Satoshi-Italic-dbcb8c32.woff2",
+    "src": "src/fonts/Satoshi-Italic.woff2"
+  },
+  "src/fonts/Satoshi-Light.ttf": {
+    "file": "assets/Satoshi-Light-b54cf060.ttf",
+    "src": "src/fonts/Satoshi-Light.ttf"
+  },
+  "src/fonts/Satoshi-Light.woff": {
+    "file": "assets/Satoshi-Light-dd42e743.woff",
+    "src": "src/fonts/Satoshi-Light.woff"
+  },
+  "src/fonts/Satoshi-Light.woff2": {
+    "file": "assets/Satoshi-Light-8a24f395.woff2",
+    "src": "src/fonts/Satoshi-Light.woff2"
+  },
+  "src/fonts/Satoshi-LightItalic.ttf": {
+    "file": "assets/Satoshi-LightItalic-c9a8d027.ttf",
+    "src": "src/fonts/Satoshi-LightItalic.ttf"
+  },
+  "src/fonts/Satoshi-LightItalic.woff": {
+    "file": "assets/Satoshi-LightItalic-2f9c5264.woff",
+    "src": "src/fonts/Satoshi-LightItalic.woff"
+  },
+  "src/fonts/Satoshi-LightItalic.woff2": {
+    "file": "assets/Satoshi-LightItalic-9690a557.woff2",
+    "src": "src/fonts/Satoshi-LightItalic.woff2"
+  },
+  "src/fonts/Satoshi-Medium.ttf": {
+    "file": "assets/Satoshi-Medium-7130cef6.ttf",
+    "src": "src/fonts/Satoshi-Medium.ttf"
+  },
+  "src/fonts/Satoshi-Medium.woff": {
+    "file": "assets/Satoshi-Medium-7aeaf037.woff",
+    "src": "src/fonts/Satoshi-Medium.woff"
+  },
+  "src/fonts/Satoshi-Medium.woff2": {
+    "file": "assets/Satoshi-Medium-af02a722.woff2",
+    "src": "src/fonts/Satoshi-Medium.woff2"
+  },
+  "src/fonts/Satoshi-MediumItalic.ttf": {
+    "file": "assets/Satoshi-MediumItalic-71f8dce5.ttf",
+    "src": "src/fonts/Satoshi-MediumItalic.ttf"
+  },
+  "src/fonts/Satoshi-MediumItalic.woff": {
+    "file": "assets/Satoshi-MediumItalic-cf98a3ed.woff",
+    "src": "src/fonts/Satoshi-MediumItalic.woff"
+  },
+  "src/fonts/Satoshi-MediumItalic.woff2": {
+    "file": "assets/Satoshi-MediumItalic-beb15382.woff2",
+    "src": "src/fonts/Satoshi-MediumItalic.woff2"
+  },
+  "src/fonts/Satoshi-Regular.ttf": {
+    "file": "assets/Satoshi-Regular-243b23f6.ttf",
+    "src": "src/fonts/Satoshi-Regular.ttf"
+  },
+  "src/fonts/Satoshi-Regular.woff": {
+    "file": "assets/Satoshi-Regular-9fbc41c9.woff",
+    "src": "src/fonts/Satoshi-Regular.woff"
+  },
+  "src/fonts/Satoshi-Regular.woff2": {
+    "file": "assets/Satoshi-Regular-50dca57f.woff2",
+    "src": "src/fonts/Satoshi-Regular.woff2"
+  },
+  "src/images/Users.svg": {
+    "file": "assets/Users-5af4780e.svg",
+    "src": "src/images/Users.svg"
+  },
+  "src/images/logo/logo-icon.svg": {
+    "file": "assets/logo-0d0a1016.svg",
+    "src": "src/images/logo/logo-icon.svg"
+  },
+  "src/images/logo/logo.svg": {
+    "file": "assets/logo-0d0a1016.svg",
+    "src": "src/images/logo/logo-icon.svg"
+  },
+  "src/images/user/user-01.png": {
+    "file": "assets/user-01-b007ff3f.png",
+    "src": "src/images/user/user-01.png"
+  },
+  "src/layout/DefaultLayout.tsx": {
+    "assets": [
+      "assets/logo-0d0a1016.svg",
+      "assets/user-01-b007ff3f.png",
+      "assets/Users-5af4780e.svg"
+    ],
+    "file": "assets/DefaultLayout-735df430.js",
+    "imports": [
+      "index.html"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/layout/DefaultLayout.tsx"
+  },
+  "src/pages/Profile.tsx": {
+    "file": "assets/Profile-5699fb72.js",
+    "imports": [
+      "index.html"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/Profile.tsx"
+  },
+  "src/pages/UserList.tsx": {
+    "file": "assets/UserList-deefa23a.js",
+    "imports": [
+      "index.html"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/UserList.tsx"
+  }
+}
