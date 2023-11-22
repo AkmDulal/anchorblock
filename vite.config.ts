@@ -9,7 +9,7 @@ export default defineConfig({
     manifest: true
   },
   server: {
-    port: 3000,
+    port: 9000,
     open: true,
   },
   resolve: {
